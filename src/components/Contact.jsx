@@ -11,22 +11,22 @@ const Contact = () => {
                 </p>
 
                 <div className="contact-links">
-                    <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="contact-card instagram">
+                    <a href="https://www.instagram.com/marcosffra" target="_blank" rel="noopener noreferrer" className="contact-card instagram">
                         <span className="icon">📸</span>
                         <span className="label">Instagram</span>
-                        <span className="value">@seu_perfil</span>
+                        <span className="value">@marcosffra</span>
                     </a>
 
-                    <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="contact-card linkedin">
+                    <a href="https://www.linkedin.com/in/marcos-ffra5226" target="_blank" rel="noopener noreferrer" className="contact-card linkedin">
                         <span className="icon">💼</span>
                         <span className="label">LinkedIn</span>
-                        <span className="value">linkedin.com/in/seu-perfil</span>
+                        <span className="value">www.linkedin.com/in/marcos-ffra5226</span>
                     </a>
 
-                    <a href="tel:+5511999999999" className="contact-card phone">
+                    <a href="tel:5531972575464" className="contact-card phone">
                         <span className="icon">📱</span>
                         <span className="label">Telefone</span>
-                        <span className="value">(11) 99999-9999</span>
+                        <span className="value">(31) 97257-5464</span>
                     </a>
                 </div>
             </div>

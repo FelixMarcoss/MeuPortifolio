@@ -16,9 +16,9 @@ const Hero = () => {
                         sempre buscando aprender novas tecnologias e aprimorar meu conhecimento.
                     </p>
                     <div className="hero-actions">
-                        <a href="https://linkedin.com" target="_blank" rel="noopener noreferrer" className="btn btn-primary">LINKEDIN</a>
-                        <a href="https://github.com" target="_blank" rel="noopener noreferrer" className="btn btn-primary">GITHUB</a>
-                        <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" className="btn btn-primary">INSTAGRAM</a>
+                        <a href="https://www.linkedin.com/in/marcos-ffra5226" target="_blank" rel="noopener noreferrer" className="btn btn-primary">LINKEDIN</a>
+                        <a href="https://github.com/FelixMarcoss" target="_blank" rel="noopener noreferrer" className="btn btn-primary">GITHUB</a>
+                        <a href="https://www.instagram.com/marcosffra" target="_blank" rel="noopener noreferrer" className="btn btn-primary">INSTAGRAM</a>
                     </div>
                 </div>
                 <div className="hero-image-wrapper">
